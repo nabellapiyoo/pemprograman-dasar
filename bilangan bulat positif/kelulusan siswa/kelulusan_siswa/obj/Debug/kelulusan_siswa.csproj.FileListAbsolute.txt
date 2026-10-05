@@ -1,0 +1,7 @@
+D:\nabella s_ x pplg  2\kelulusan siswa\kelulusan_siswa\bin\Debug\kelulusan_siswa.exe.config
+D:\nabella s_ x pplg  2\kelulusan siswa\kelulusan_siswa\bin\Debug\kelulusan_siswa.exe
+D:\nabella s_ x pplg  2\kelulusan siswa\kelulusan_siswa\bin\Debug\kelulusan_siswa.pdb
+D:\nabella s_ x pplg  2\kelulusan siswa\kelulusan_siswa\obj\Debug\kelulusan_siswa.csproj.AssemblyReference.cache
+D:\nabella s_ x pplg  2\kelulusan siswa\kelulusan_siswa\obj\Debug\kelulusan_siswa.csproj.CoreCompileInputs.cache
+D:\nabella s_ x pplg  2\kelulusan siswa\kelulusan_siswa\obj\Debug\kelulusan_siswa.exe
+D:\nabella s_ x pplg  2\kelulusan siswa\kelulusan_siswa\obj\Debug\kelulusan_siswa.pdb

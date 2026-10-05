@@ -1,0 +1,7 @@
+D:\nabella s_ x pplg  2\bilangan bulat positif\bilangan bulat positif\bin\Debug\bilangan bulat positif.exe.config
+D:\nabella s_ x pplg  2\bilangan bulat positif\bilangan bulat positif\bin\Debug\bilangan bulat positif.exe
+D:\nabella s_ x pplg  2\bilangan bulat positif\bilangan bulat positif\bin\Debug\bilangan bulat positif.pdb
+D:\nabella s_ x pplg  2\bilangan bulat positif\bilangan bulat positif\obj\Debug\bilangan bulat positif.csproj.AssemblyReference.cache
+D:\nabella s_ x pplg  2\bilangan bulat positif\bilangan bulat positif\obj\Debug\bilangan bulat positif.csproj.CoreCompileInputs.cache
+D:\nabella s_ x pplg  2\bilangan bulat positif\bilangan bulat positif\obj\Debug\bilangan bulat positif.exe
+D:\nabella s_ x pplg  2\bilangan bulat positif\bilangan bulat positif\obj\Debug\bilangan bulat positif.pdb

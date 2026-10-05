@@ -1,0 +1,7 @@
+D:\nabella s_ x pplg  2\latihan siswa\latihan siswa\bin\Debug\latihan siswa.exe.config
+D:\nabella s_ x pplg  2\latihan siswa\latihan siswa\bin\Debug\latihan siswa.exe
+D:\nabella s_ x pplg  2\latihan siswa\latihan siswa\bin\Debug\latihan siswa.pdb
+D:\nabella s_ x pplg  2\latihan siswa\latihan siswa\obj\Debug\latihan siswa.csproj.AssemblyReference.cache
+D:\nabella s_ x pplg  2\latihan siswa\latihan siswa\obj\Debug\latihan siswa.csproj.CoreCompileInputs.cache
+D:\nabella s_ x pplg  2\latihan siswa\latihan siswa\obj\Debug\latihan siswa.exe
+D:\nabella s_ x pplg  2\latihan siswa\latihan siswa\obj\Debug\latihan siswa.pdb
